@@ -72,11 +72,7 @@ My answer:
 
 ---
 
-## VerifyWise Screenshots
-
-This repository includes selected screenshots from VerifyWise to demonstrate practical AI governance workflow experience.
-
-> Replace each placeholder image with your actual screenshot. Use clear PNG files and avoid including private information, passwords, tokens, or personal email addresses.
+## Practical AI governance Skill Proof (Screenshots) 
 
 ### 1. Use Case Registration
 
@@ -85,7 +81,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
 
-> **Skill demonstrated:** AI use case intake, risk classification, and governance workflow setup.
+**Skill demonstrated:** AI use case intake, risk classification, and governance workflow setup.
 
 ---
 
@@ -95,7 +91,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
 
-> **Skill demonstrated:** Model inventory documentation, model limitation tracking, and third-party AI model governance.
+**Skill demonstrated:** Model inventory documentation, model limitation tracking, and third-party AI model governance.
 
 ---
 
@@ -105,7 +101,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
 
-> **Skill demonstrated:** Dataset governance, PII awareness, data source documentation, and bias mitigation planning.
+**Skill demonstrated:** Dataset governance, PII awareness, data source documentation, and bias mitigation planning.
 
 ---
 
@@ -115,7 +111,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
 
-> **Skill demonstrated:** AI risk identification, risk rating, mitigation planning, residual risk analysis, and approval workflow documentation.
+**Skill demonstrated:** AI risk identification, risk rating, mitigation planning, residual risk analysis, and approval workflow documentation.
 
 ## Key Risks Identified
 
@@ -136,7 +132,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
 
-> **Skill demonstrated:** Third-party AI vendor risk management and vendor governance documentation.
+**Skill demonstrated:** Third-party AI vendor risk management and vendor governance documentation.
 
 ---
 
@@ -147,7 +143,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
 
-> **Skill demonstrated:** Practical framework application and evidence-based AI governance assessment.
+**Skill demonstrated:** Practical framework application and evidence-based AI governance assessment.
 
 ---
 
@@ -157,7 +153,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 > **Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
 
-> **Skill demonstrated:** Fundamental rights risk assessment, high-risk AI review, human oversight analysis, and conditional deployment recommendation.
+**Skill demonstrated:** Fundamental rights risk assessment, high-risk AI review, human oversight analysis, and conditional deployment recommendation.
 
 ---
 
@@ -165,9 +161,11 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 [Francois_Arthanas_AI_Governance_Portfolio_Report.pdf](https://github.com/user-attachments/files/28196322/Francois_Arthanas_AI_Governance_Portfolio_Report.pdf)
 
+<img width="858" height="590" alt="image" src="https://github.com/user-attachments/assets/67c70b59-4f54-43f5-ade8-b6e73cf3780c" />
+
 > **Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
 
-> **Skill demonstrated:** Governance evidence organization and final reporting.
+**Skill demonstrated:** Governance evidence organization and final reporting.
 
 
 ## Final Recommendation
@@ -194,7 +192,6 @@ The system may move forward only if the following conditions are completed:
 
 ---
 
-
 ## Portfolio Conclusion
 
 This project demonstrates my ability to evaluate a high-risk AI system from an AI governance, risk, and compliance perspective.
@@ -210,6 +207,4 @@ This project reflects how I would support responsible AI deployment in a real or
 ## Disclaimer
 
 This is a fictional educational portfolio project created for AI governance, risk, and compliance training. It does not represent legal advice, regulatory certification, credit decisioning advice, or an actual assessment of a real financial institution.
-
-
 
