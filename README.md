@@ -1,17 +1,5 @@
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Francois B. Arthanas)
 
-**Student:** [Your Name]  
-**Role:** AI Governance Lead  
-**Organization:** Meridian Financial Services  
-**System:** Meridian Automated Loan Underwriting System  
-**Tool Used:** VerifyWise  
-**Frameworks Applied:** EU AI Act, NIST AI Risk Management Framework, ISO/IEC 42001  
-**Final Recommendation:** Proceed with conditions  
-
----
-
-## Executive Summary
-
 I served as the **AI Governance Lead** for a fictional high-risk AI governance assessment involving Meridian Financial Services, a mid-sized financial services company piloting an automated loan underwriting system.
 
 The system uses a third-party AI model, **CrediSure Credit Decision Engine v2.3**, to evaluate small business loan applications and produce one of three outcomes:
@@ -25,6 +13,8 @@ Because approximately **94% of applications are processed automatically** and th
 My final recommendation was:
 
 > **Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.**
+
+<img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/7ea423af-3db7-48bc-a618-10fd256f8c5d" />
 
 ---
 
