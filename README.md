@@ -17,6 +17,21 @@ My final recommendation was:
 > **Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.**
 
 <img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/7ea423af-3db7-48bc-a618-10fd256f8c5d" />
+**Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
+
+## Frameworks Applied
+
+| EU AI Act | NIST AI Risk Management Framework | ISO/IEC 42001 |
+|---|---|---|
+| High-risk AI classification | Governance roles and responsibilities | AI management system scope |
+| Fundamental Rights Impact Assessment | System context and intended use | Organizational roles and responsibilities |
+| Human oversight| Risk measurement and testing evidence | AI risk assessment |
+| Logging | Risk prioritization and treatment | AI risk treatment |
+| Explanation to affected persons | Human-AI oversight | Management review |
+| Fundamental Rights Impact Assessment |  | AI system lifecycle management |
+| Appeal and contestability|  | Third-party AI risk management |
+| Deployment conditions |  | |
+
 
 This portfolio demonstrates my ability to perform practical AI governance work for a high-risk AI system.
 
@@ -33,42 +48,17 @@ Specifically, this project shows that I can:
 
 ---
 
-## Business Context
+## Central Governance Question
 
-Meridian Financial Services is a fictional mid-sized financial services company that provides financing products to small and medium-sized businesses, including:
+This portfolio answers one central question:
 
-- Small business loans
-- Working capital loans
-- Business lines of credit
-- Equipment financing
-- Merchant financing products
+> **Should Meridian Financial Services approve production deployment of a 94% automated AI loan underwriting system?**
 
-Meridian’s leadership team is under pressure to modernize the loan decision process. Traditional underwriting takes several business days, which may cause applicants to abandon the process, move to faster fintech lenders, or become frustrated by slow feedback.
+My answer:
 
-To improve speed, consistency, and scalability, Meridian is piloting an AI-powered loan underwriting system.
-
-However, the proposed system introduces significant AI governance risk because it:
-
-- Affects access to credit
-- Uses sensitive financial and credit-related data
-- Relies on a third-party AI vendor
-- Automates most loan decisions
-- May create fairness, explainability, vendor, compliance, and human oversight risks
+> **Not for unrestricted production deployment. The system may proceed only with conditions because the current governance evidence does not fully support safe, fair, explainable, accountable, and well-monitored deployment.**
 
 ---
-
-## Frameworks Applied
-
-| EU AI Act | NIST AI Risk Management Framework | ISO/IEC 42001 |
-|---|---|---|
-| High-risk AI classification | Governance roles and responsibilities | AI management system scope |
-| Fundamental Rights Impact Assessment | System context and intended use | Organizational roles and responsibilities |
-| Human oversight| Risk measurement and testing evidence | AI risk assessment |
-| Logging | Risk prioritization and treatment | AI risk treatment |
-| Explanation to affected persons | Human-AI oversight | Management review |
-| Fundamental Rights Impact Assessment |  | AI system lifecycle management |
-| Appeal and contestability|  | Third-party AI risk management |
-| Deployment conditions |  | |
 
 ## Key Risks Identified
 
@@ -207,22 +197,6 @@ The system may move forward only if the following conditions are completed:
 
 ---
 
-## Skills Demonstrated
-
-| Skill | Evidence in This Portfolio |
-|---|---|
-| AI governance leadership | Led the end-to-end governance review as AI Governance Lead. |
-| AI system intake | Documented system purpose, stakeholders, data, vendor, and risk classification. |
-| AI risk assessment | Identified six priority AI risks and mitigation actions. |
-| Framework application | Applied EU AI Act, NIST AI RMF, and ISO/IEC 42001 concepts. |
-| Vendor AI risk management | Reviewed CrediSure AI and documented required vendor evidence. |
-| Dataset governance | Documented PII, data sources, known bias, and mitigation approach. |
-| Human oversight design | Defined manual review, escalation, override, and appeal procedures. |
-| Executive communication | Prepared production readiness recommendation. |
-| Evidence management | Organized governance evidence in VerifyWise. |
-| Responsible AI decision-making | Recommended conditional approval instead of unrestricted deployment. |
-
----
 
 ## Portfolio Conclusion
 
