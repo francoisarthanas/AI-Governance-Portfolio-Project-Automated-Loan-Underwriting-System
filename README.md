@@ -61,19 +61,6 @@ My answer:
 
 ---
 
-## Key Risks Identified
-
-| Risk | Why It Matters |
-|---|---|
-| Discriminatory lending outcomes | The system may unfairly approve or deny applicants based on biased data, proxy variables, or historical lending patterns. |
-| Proxy bias through credit and business variables | Variables such as geography, business age, industry, credit history, thin credit files, or cash-flow volatility may create unfair outcomes. |
-| Weak explainability and incomplete reason codes | Meridian may be unable to explain automated denials, support appeals, or demonstrate compliance during review. |
-| Accountability gaps in third-party AI deployment | Meridian remains responsible for deployment even if the vendor controls key model details. |
-| Inaccurate automated denials | Qualified applicants may be incorrectly denied credit due to model error, incomplete data, or overly strict thresholds. |
-| Lack of meaningful human oversight | Routing only 6% of applications to human review may be insufficient for a high-risk credit decision system. |
-
----
-
 ## Portfolio Artifacts
 
 | Artifact | Purpose | Link |
@@ -106,7 +93,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 2. Model Inventory
 
-![Model Inventory](./screenshots/02-model-inventory.png)
+<img width="824" height="746" alt="3  Add the Model to Model Inventory " src="https://github.com/user-attachments/assets/f07225c1-6cc8-4cea-bcd0-3c1bfe24ae93" />
 
 **Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
 
@@ -116,7 +103,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 3. Dataset Record
 
-![Dataset Record](./screenshots/03-dataset-record.png)
+<img width="827" height="817" alt="4  Datasets" src="https://github.com/user-attachments/assets/ac514020-1a62-43f5-8b8a-9860a1a03080" />
 
 **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
 
@@ -126,7 +113,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 4. AI Risk Register
 
-![AI Risk Register](./screenshots/04-risk-register.png)
+<img width="1522" height="865" alt="5  Risk register" src="https://github.com/user-attachments/assets/649f77f7-4d6d-4201-9219-7314a65b3954" /> 
 
 **Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
 
@@ -136,7 +123,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 5. Vendor Record
 
-![Vendor Record](./screenshots/05-vendor-record.png)
+<img width="799" height="714" alt="7  Vendor List " src="https://github.com/user-attachments/assets/0ffb06b0-6843-47c2-8dda-c6b992d03e3e" />
 
 **Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
 
@@ -146,7 +133,8 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 6. Framework Assessments
 
-![Framework Assessments](./screenshots/06-framework-assessments.png)
+<img width="1505" height="835" alt="ISO 42001 Part 1" src="https://github.com/user-attachments/assets/dc5ac0f7-da16-4fe9-ac50-e86fc03be3b5" /> 
+<img width="1527" height="941" alt="ISO 42001 Part 2" src="https://github.com/user-attachments/assets/a6a6660a-df92-499f-9d10-b0a29d8da48b" />
 
 **Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
 
@@ -156,7 +144,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 7. FRIA Summary
 
-![FRIA Summary](./screenshots/07-fria-summary.png)
+<img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/03001655-4ef1-4ad8-a86a-5080bfc145fc" />
 
 **Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
 
@@ -166,13 +154,27 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 8. Final Report
 
-![Final Report](./screenshots/08-final-report.png)
+[Francois_Arthanas_AI_Governance_Portfolio_Report.pdf](https://github.com/user-attachments/files/28196322/Francois_Arthanas_AI_Governance_Portfolio_Report.pdf)
 
 **Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
 
 **Skill demonstrated:** Governance evidence organization and final reporting.
 
 ---
+
+## Key Risks Identified
+
+| Risk | Why It Matters |
+|---|---|
+| Discriminatory lending outcomes | The system may unfairly approve or deny applicants based on biased data, proxy variables, or historical lending patterns. |
+| Proxy bias through credit and business variables | Variables such as geography, business age, industry, credit history, thin credit files, or cash-flow volatility may create unfair outcomes. |
+| Weak explainability and incomplete reason codes | Meridian may be unable to explain automated denials, support appeals, or demonstrate compliance during review. |
+| Accountability gaps in third-party AI deployment | Meridian remains responsible for deployment even if the vendor controls key model details. |
+| Inaccurate automated denials | Qualified applicants may be incorrectly denied credit due to model error, incomplete data, or overly strict thresholds. |
+| Lack of meaningful human oversight | Routing only 6% of applications to human review may be insufficient for a high-risk credit decision system. |
+
+---
+
 
 ## Final Recommendation
 
