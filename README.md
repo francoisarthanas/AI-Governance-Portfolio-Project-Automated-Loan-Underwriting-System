@@ -59,8 +59,6 @@ My answer:
 
 > **Not for unrestricted production deployment. The system may proceed only with conditions because the current governance evidence does not fully support safe, fair, explainable, accountable, and well-monitored deployment.**
 
----
-
 ## Portfolio Artifacts
 
 | Artifact | Purpose | Link |
@@ -85,9 +83,9 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 <img width="980" height="817" alt="2  Create the New Use Case" src="https://github.com/user-attachments/assets/859be89b-3c21-4694-ab9b-0dbbe16abc34" />
 
 
-**Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
+> **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
 
-**Skill demonstrated:** AI use case intake, risk classification, and governance workflow setup.
+> **Skill demonstrated:** AI use case intake, risk classification, and governance workflow setup.
 
 ---
 
@@ -95,9 +93,9 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 <img width="824" height="746" alt="3  Add the Model to Model Inventory " src="https://github.com/user-attachments/assets/f07225c1-6cc8-4cea-bcd0-3c1bfe24ae93" />
 
-**Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
+> **Caption:** This screenshot shows the CrediSure Credit Decision Engine v2.3 documented in the model inventory.
 
-**Skill demonstrated:** Model inventory documentation, model limitation tracking, and third-party AI model governance.
+> **Skill demonstrated:** Model inventory documentation, model limitation tracking, and third-party AI model governance.
 
 ---
 
@@ -105,9 +103,9 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 <img width="827" height="817" alt="4  Datasets" src="https://github.com/user-attachments/assets/ac514020-1a62-43f5-8b8a-9860a1a03080" />
 
-**Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
+> **Caption:** This screenshot shows the Small Business Loan Underwriting Dataset documented with data purpose, source, PII status, known bias concerns, and mitigation approach.
 
-**Skill demonstrated:** Dataset governance, PII awareness, data source documentation, and bias mitigation planning.
+> **Skill demonstrated:** Dataset governance, PII awareness, data source documentation, and bias mitigation planning.
 
 ---
 
@@ -115,52 +113,9 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 <img width="1522" height="865" alt="5  Risk register" src="https://github.com/user-attachments/assets/649f77f7-4d6d-4201-9219-7314a65b3954" /> 
 
-**Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
+> **Caption:** This screenshot shows the six priority AI risks documented for the Meridian Automated Loan Underwriting System.
 
-**Skill demonstrated:** AI risk identification, risk rating, mitigation planning, residual risk analysis, and approval workflow documentation.
-
----
-
-### 5. Vendor Record
-
-<img width="799" height="714" alt="7  Vendor List " src="https://github.com/user-attachments/assets/0ffb06b0-6843-47c2-8dda-c6b992d03e3e" />
-
-**Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
-
-**Skill demonstrated:** Third-party AI vendor risk management and vendor governance documentation.
-
----
-
-### 6. Framework Assessments
-
-<img width="1505" height="835" alt="ISO 42001 Part 1" src="https://github.com/user-attachments/assets/dc5ac0f7-da16-4fe9-ac50-e86fc03be3b5" /> 
-<img width="1527" height="941" alt="ISO 42001 Part 2" src="https://github.com/user-attachments/assets/a6a6660a-df92-499f-9d10-b0a29d8da48b" />
-
-**Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
-
-**Skill demonstrated:** Practical framework application and evidence-based AI governance assessment.
-
----
-
-### 7. FRIA Summary
-
-<img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/03001655-4ef1-4ad8-a86a-5080bfc145fc" />
-
-**Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
-
-**Skill demonstrated:** Fundamental rights risk assessment, high-risk AI review, human oversight analysis, and conditional deployment recommendation.
-
----
-
-### 8. Final Report
-
-[Francois_Arthanas_AI_Governance_Portfolio_Report.pdf](https://github.com/user-attachments/files/28196322/Francois_Arthanas_AI_Governance_Portfolio_Report.pdf)
-
-**Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
-
-**Skill demonstrated:** Governance evidence organization and final reporting.
-
----
+> **Skill demonstrated:** AI risk identification, risk rating, mitigation planning, residual risk analysis, and approval workflow documentation.
 
 ## Key Risks Identified
 
@@ -174,6 +129,45 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 | Lack of meaningful human oversight | Routing only 6% of applications to human review may be insufficient for a high-risk credit decision system. |
 
 ---
+
+### 5. Vendor Record
+
+<img width="799" height="714" alt="7  Vendor List " src="https://github.com/user-attachments/assets/0ffb06b0-6843-47c2-8dda-c6b992d03e3e" />
+
+> **Caption:** This screenshot shows the CrediSure AI vendor record documenting the third-party provider responsible for the credit decisioning model.
+
+> **Skill demonstrated:** Third-party AI vendor risk management and vendor governance documentation.
+
+---
+
+### 6. Framework Assessments
+
+<img width="1505" height="835" alt="ISO 42001 Part 1" src="https://github.com/user-attachments/assets/dc5ac0f7-da16-4fe9-ac50-e86fc03be3b5" /> 
+<img width="1527" height="941" alt="ISO 42001 Part 2" src="https://github.com/user-attachments/assets/a6a6660a-df92-499f-9d10-b0a29d8da48b" />
+
+> **Caption:** This screenshot shows selected framework assessment progress for NIST AI RMF, ISO/IEC 42001, and EU AI Act governance requirements.
+
+> **Skill demonstrated:** Practical framework application and evidence-based AI governance assessment.
+
+---
+
+### 7. Fundamental Rights Impact Assessment (FRIA) Summary
+
+<img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/03001655-4ef1-4ad8-a86a-5080bfc145fc" />
+
+> **Caption:** This screenshot shows the EU AI Act Fundamental Rights Impact Assessment summary for the Meridian Automated Loan Underwriting System.
+
+> **Skill demonstrated:** Fundamental rights risk assessment, high-risk AI review, human oversight analysis, and conditional deployment recommendation.
+
+---
+
+### 8. Final Report
+
+[Francois_Arthanas_AI_Governance_Portfolio_Report.pdf](https://github.com/user-attachments/files/28196322/Francois_Arthanas_AI_Governance_Portfolio_Report.pdf)
+
+> **Caption:** This screenshot shows the final VerifyWise portfolio report generated for the Meridian Automated Loan Underwriting System.
+
+> **Skill demonstrated:** Governance evidence organization and final reporting.
 
 
 ## Final Recommendation
