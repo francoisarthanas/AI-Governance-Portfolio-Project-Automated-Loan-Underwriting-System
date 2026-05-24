@@ -1,5 +1,15 @@
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Francois B. Arthanas)
 
+**My Name:** [Francois B. Arthanas]
+**Role:** AI Governance Lead
+**Organization:** Meridian Financial Services
+**System:** Meridian Automated Loan Underwriting System
+**Tool Used:** VerifyWise
+**Frameworks Applied:** EU AI Act, NIST AI Risk Management Framework, ISO/IEC 42001
+**Final Recommendation:** Proceed with conditions
+
+## Executive Summary
+
 I served as the **AI Governance Lead** for a fictional high-risk AI governance assessment involving Meridian Financial Services, a mid-sized financial services company piloting an automated loan underwriting system.
 
 The system uses a third-party AI model, **CrediSure Credit Decision Engine v2.3**, to evaluate small business loan applications and produce one of three outcomes:
@@ -16,9 +26,7 @@ My final recommendation was:
 
 <img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/7ea423af-3db7-48bc-a618-10fd256f8c5d" />
 
----
-
-## This portfolio demonstrates my ability to perform practical AI governance work for a high-risk AI system.
+This portfolio demonstrates my ability to perform practical AI governance work for a high-risk AI system.
 
 Specifically, this project shows that I can:
 
@@ -57,20 +65,30 @@ However, the proposed system introduces significant AI governance risk because i
 
 ---
 
-## AI System Overview
+## Frameworks Applied
 
-| Field | Description |
-|---|---|
-| System Name | Meridian Automated Loan Underwriting System |
-| Organization | Meridian Financial Services |
-| Vendor | CrediSure AI |
-| Model | CrediSure Credit Decision Engine v2.3 |
-| Industry | Financial Services / Small Business Lending |
-| AI Risk Classification | High Risk |
-| Organization Role | Deployer |
-| System Status | Pre-production governance review |
-| Primary Use | Small business loan underwriting |
-| Automation Level | Approximately 94% automated |
+| Framework Name | Used to assess |
+|---|---|---|
+| EU AI Act | High-risk AI classification
+Fundamental Rights Impact Assessment
+Human oversight
+Logging
+Explanation to affected persons
+Appeal and contestability
+Deployment conditions | 
+| NIST AI Risk Management Framework | Governance roles and responsibilities
+System context and intended use
+Risk measurement and testing evidence
+Risk prioritization and treatment
+Human-AI oversight |
+| ISO/IEC 42001| AI management system scope
+Organizational roles and responsibilities
+AI risk assessment
+AI risk treatment
+Management review
+AI system lifecycle management
+Third-party AI risk management |
+
 | Human Review Rate | Approximately 6% routed to manual review |
 
 The system evaluates small business loan applications using application data, cash-flow history, credit bureau data, business and guarantor credit information, requested loan amount, industry, geography, business age, fraud indicators, and historical repayment/default data.
