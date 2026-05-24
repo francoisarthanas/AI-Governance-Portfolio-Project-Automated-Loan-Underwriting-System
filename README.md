@@ -1,13 +1,5 @@
 # Cyber Pros AI Governance Portfolio Project: Automated Loan Underwriting System (Francois B. Arthanas)
 
-**My Name:** [Francois B. Arthanas]
-**Role:** AI Governance Lead
-**Organization:** Meridian Financial Services
-**System:** Meridian Automated Loan Underwriting System
-**Tool Used:** VerifyWise
-**Frameworks Applied:** EU AI Act, NIST AI Risk Management Framework, ISO/IEC 42001
-**Final Recommendation:** Proceed with conditions
-
 ## Executive Summary
 
 I served as the **AI Governance Lead** for a fictional high-risk AI governance assessment involving Meridian Financial Services, a mid-sized financial services company piloting an automated loan underwriting system.
@@ -67,27 +59,11 @@ However, the proposed system introduces significant AI governance risk because i
 
 ## Frameworks Applied
 
-| Framework Name | Used to assess |
+| EU AI Act | NIST AI Risk Management Framework | ISO/IEC 42001 |
 |---|---|---|
-| EU AI Act | High-risk AI classification
-Fundamental Rights Impact Assessment
-Human oversight
-Logging
-Explanation to affected persons
-Appeal and contestability
-Deployment conditions | 
-| NIST AI Risk Management Framework | Governance roles and responsibilities
-System context and intended use
-Risk measurement and testing evidence
-Risk prioritization and treatment
-Human-AI oversight |
-| ISO/IEC 42001| AI management system scope
-Organizational roles and responsibilities
-AI risk assessment
-AI risk treatment
-Management review
-AI system lifecycle management
-Third-party AI risk management |
+| High-risk AI classification | For NIST AI RMF | Finally ISO |
+| Fundamental Rights Impact Assessment | Another NIST | AND ISO |
+| ISO/IEC 42001| AI management system scope | Sample |
 
 | Human Review Rate | Approximately 6% routed to manual review |
 
