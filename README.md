@@ -18,7 +18,7 @@ My final recommendation was:
 
 <img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/7ea423af-3db7-48bc-a618-10fd256f8c5d" />
 
-**Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
+> **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
 
 ## Frameworks Applied
 
