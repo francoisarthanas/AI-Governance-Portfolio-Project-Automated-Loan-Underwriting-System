@@ -61,73 +61,14 @@ However, the proposed system introduces significant AI governance risk because i
 
 | EU AI Act | NIST AI Risk Management Framework | ISO/IEC 42001 |
 |---|---|---|
-| High-risk AI classification | For NIST AI RMF | Finally ISO |
-| Fundamental Rights Impact Assessment | Another NIST | AND ISO |
-| ISO/IEC 42001| AI management system scope | Sample |
-
-| Human Review Rate | Approximately 6% routed to manual review |
-
-The system evaluates small business loan applications using application data, cash-flow history, credit bureau data, business and guarantor credit information, requested loan amount, industry, geography, business age, fraud indicators, and historical repayment/default data.
-
-The system produces one of three outcomes:
-
-| Outcome | Description |
-|---|---|
-| Auto-approve | The application is approved without manual underwriting review. |
-| Auto-deny | The application is denied without manual underwriting review. |
-| Manual review | The application is routed to a human underwriter. |
-
----
-
-## Central Governance Question
-
-This portfolio answers one central question:
-
-> **Should Meridian Financial Services approve production deployment of a 94% automated AI loan underwriting system?**
-
-My answer:
-
-> **Not for unrestricted production deployment. The system may proceed only with conditions because the current governance evidence does not fully support safe, fair, explainable, accountable, and well-monitored deployment.**
-
----
-
-## Frameworks Applied
-
-### EU AI Act
-
-Used to assess:
-
-- High-risk AI classification
-- Fundamental Rights Impact Assessment
-- Human oversight
-- Logging
-- Explanation to affected persons
-- Appeal and contestability
-- Deployment conditions
-
-### NIST AI Risk Management Framework
-
-Used to assess:
-
-- Governance roles and responsibilities
-- System context and intended use
-- Risk measurement and testing evidence
-- Risk prioritization and treatment
-- Human-AI oversight
-
-### ISO/IEC 42001
-
-Used to assess:
-
-- AI management system scope
-- Organizational roles and responsibilities
-- AI risk assessment
-- AI risk treatment
-- Management review
-- AI system lifecycle management
-- Third-party AI risk management
-
----
+| High-risk AI classification | Governance roles and responsibilities | AI management system scope |
+| Fundamental Rights Impact Assessment | System context and intended use | Organizational roles and responsibilities |
+| Human oversight| Risk measurement and testing evidence | AI risk assessment |
+| Logging | Risk prioritization and treatment | AI risk treatment |
+| Explanation to affected persons | Human-AI oversight | Management review |
+| Fundamental Rights Impact Assessment |  | AI system lifecycle management |
+| Appeal and contestability|  | Third-party AI risk management |
+| Deployment conditions |  | |
 
 ## Key Risks Identified
 
