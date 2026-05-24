@@ -17,6 +17,7 @@ My final recommendation was:
 > **Proceed with conditions. Meridian should not approve unrestricted production deployment until fairness testing, proxy-bias review, reason code validation, human oversight triggers, appeal procedures, vendor evidence review, monitoring thresholds, and governance committee approval are completed.**
 
 <img width="1531" height="823" alt="10  The EU AI Act Assessment" src="https://github.com/user-attachments/assets/7ea423af-3db7-48bc-a618-10fd256f8c5d" />
+
 **Caption:** This screenshot shows the EU AI Act FRIA summary for the Meridian Automated Loan Underwriting System, including stakeholder consultation status, flagged rights, risk score, and conditional approval recommendation. 
 
 ## Frameworks Applied
@@ -77,12 +78,11 @@ My answer:
 
 | Artifact | Purpose | Link |
 |---|---|---|
-| AI System Profile and Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [View Artifact](./artifacts/01-ai-system-profile-and-intake.md) |
-| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](./artifacts/02-ai-risk-register-and-mitigation-summary.md) |
-| Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](./artifacts/03-human-oversight-and-appeal-procedure.md) |
-| Third-Party Vendor and Model Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](./artifacts/04-third-party-vendor-and-model-review.md) |
-| Framework Mapping | Maps the work to EU AI Act, NIST AI RMF, and ISO/IEC 42001. | [View Artifact](./artifacts/05-framework-mapping.md) |
-| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](./artifacts/06-production-readiness-decision-memo.md) |
+| AI System Profile and Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [View Artifact](https://docs.google.com/document/d/1q2iMEMb-7Xek2lmECq1-DQT5rDRCi_MlFYTwL2Jb5Ig/edit?usp=drive_link) |
+| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](./https://docs.google.com/document/d/1PPeg_nKr-xfuAuxdIFQvRu8r0F2wEdDUUjADJ7biQds/edit?usp=sharing) |
+| Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](https://docs.google.com/document/d/14L_cdmdn3WDQU4OAkmWXmSriK4wWIMFxztZ-IMBISiA/edit?usp=sharing) |
+| Third-Party Vendor and Model Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](https://docs.google.com/document/d/1ixeLcu3ZbLs1oRMVsZRcOhEaMFqoLRPLP9jZmIk2sNU/edit?usp=sharing) |
+| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](./https://docs.google.com/document/d/1n6fIW4xsy8nhBQPPLpI4zdDttjGDRojv0N6MzQdUku8/edit?usp=sharing) |
 | Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](./report/FirstName_LastName_AI_Governance_Portfolio_Report.pdf) |
 
 ---
@@ -95,7 +95,8 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 1. Use Case Registration
 
-![Use Case Registration](./screenshots/01-use-case-registration.png)
+![Use Case Registration](<img width="980" height="817" alt="2  Create the New Use Case" src="https://github.com/user-attachments/assets/859be89b-3c21-4694-ab9b-0dbbe16abc34" />)
+
 
 **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
 
