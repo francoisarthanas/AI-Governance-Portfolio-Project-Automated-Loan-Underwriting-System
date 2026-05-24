@@ -79,11 +79,11 @@ My answer:
 | Artifact | Purpose | Link |
 |---|---|---|
 | AI System Profile and Intake Record | Documents system purpose, users, affected groups, data, vendor, and risk classification. | [View Artifact](https://docs.google.com/document/d/1q2iMEMb-7Xek2lmECq1-DQT5rDRCi_MlFYTwL2Jb5Ig/edit?usp=drive_link) |
-| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](./https://docs.google.com/document/d/1PPeg_nKr-xfuAuxdIFQvRu8r0F2wEdDUUjADJ7biQds/edit?usp=sharing) |
+| AI Risk Register and Mitigation Summary | Documents key AI risks, severity, controls, residual risk, and recommendations. | [View Artifact](https://docs.google.com/document/d/1PPeg_nKr-xfuAuxdIFQvRu8r0F2wEdDUUjADJ7biQds/edit?usp=sharing) |
 | Human Oversight and Appeal Procedure | Defines human review triggers, override authority, escalation, and applicant appeal process. | [View Artifact](https://docs.google.com/document/d/14L_cdmdn3WDQU4OAkmWXmSriK4wWIMFxztZ-IMBISiA/edit?usp=sharing) |
 | Third-Party Vendor and Model Review | Evaluates CrediSure AI vendor risk, model limitations, and required evidence. | [View Artifact](https://docs.google.com/document/d/1ixeLcu3ZbLs1oRMVsZRcOhEaMFqoLRPLP9jZmIk2sNU/edit?usp=sharing) |
-| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](./https://docs.google.com/document/d/1n6fIW4xsy8nhBQPPLpI4zdDttjGDRojv0N6MzQdUku8/edit?usp=sharing) |
-| Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](./report/FirstName_LastName_AI_Governance_Portfolio_Report.pdf) |
+| Production Readiness Decision Memo | Provides final executive recommendation. | [View Artifact](https://docs.google.com/document/d/1n6fIW4xsy8nhBQPPLpI4zdDttjGDRojv0N6MzQdUku8/edit?usp=sharing) |
+| Final VerifyWise Portfolio Report | Consolidated portfolio report generated from VerifyWise. | [View Report](https://drive.google.com/file/d/1eN26gCzbvlTUXNyT1W1nhECPlyotqaj9/view?usp=sharing) |
 
 ---
 
@@ -95,7 +95,7 @@ This repository includes selected screenshots from VerifyWise to demonstrate pra
 
 ### 1. Use Case Registration
 
-![Use Case Registration](<img width="980" height="817" alt="2  Create the New Use Case" src="https://github.com/user-attachments/assets/859be89b-3c21-4694-ab9b-0dbbe16abc34" />)
+<img width="980" height="817" alt="2  Create the New Use Case" src="https://github.com/user-attachments/assets/859be89b-3c21-4694-ab9b-0dbbe16abc34" />
 
 
 **Caption:** This screenshot shows the Meridian Automated Loan Underwriting System registered as a high-risk AI use case in VerifyWise.
